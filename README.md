@@ -21,6 +21,9 @@ A few resources to get you started if this is your first Flutter project:
   <img src="/screenshots/Screenshot_20200309-001340.png" width="200" />
    <img src="/screenshots/Screenshot_20200309-001347.png" width="200" />
    <img src="/screenshots/Screenshot_20200309-001404.png" width="200" />
+  <img src="/screenshots/Screenshot_20200308-172505.png" width="200" />
+  <img src="/screenshots/Screenshot_20200308-172514.png" width="200" />
+  <img src="/screenshots/Screenshot_20200309-010933.png" width="200" />
    <img src="/screenshots/Screenshot_20200309-001409.png" width="200" />
      <img src="/screenshots/Screenshot_20200309-001409.png" width="200" />
 
